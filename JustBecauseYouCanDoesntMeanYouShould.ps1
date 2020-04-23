@@ -71,16 +71,3 @@ $A..$А | АA {
 }
 
 ΑA -ScriptBlock $AAAА -ArgumentList $ΑΑΑ
-
-
-
-
-<#
-if($true)
-{
-    1..100 | Á {
-
-        Α $A | А A -eq "А" | Α | Ä
-    }
-}
-#>
