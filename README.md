@@ -5,7 +5,7 @@ Proof that just because you can do it in Powershell, doesn't mean you should do 
 This script cannot be run in ISE, ISE doesn't support Unicode fully. Use vscode. 
 
 # Origin
-Based around the following Reddit post: https://www.reddit.com/r/SatisfactoryGame/comments/g6jfle/construction_progress_space_shuttle_day_4/
+Based around the following Reddit post: https://www.reddit.com/r/PowerShell/comments/g6k3ta/ugliest_working_code_competition_idea/
 
 # License
 Good luck. If your production script uses this, you're insane. I suspect it would be a great addition to world-ending AIs or something we could upload to the alien mothership before detonating a nuke. 
